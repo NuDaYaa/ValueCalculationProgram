@@ -1,3 +1,3 @@
 Value Calculation Program
-6 Практическая
+5 Практическая
 Тогузов М.А.
